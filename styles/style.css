@@ -116,7 +116,9 @@ body {
     color: var(--cor-terciaria);
     border: 2px solid var(--cor-quaternaria);
 }
-
+.imagem{
+    width: 30%;
+}
 .apresentação__imagem {
     width: 50%;
 }
